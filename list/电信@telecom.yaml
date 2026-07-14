@@ -1,0 +1,8 @@
+# 中国常用电信运营商
+app-list:
+  - "com.greenpoint.android.mc10086.activity": "中国移动"
+  - "com.sinovatech.unicom.ui": "中国联通"
+  - "com.ct.client": "中国电信"
+  - "com.cmcc.cmvideo": "咪咕视频"
+  - "com.chinamobile.mcloud": "中国移动云盘"
+  - "com.cn21.ecloud": "天翼云盘"

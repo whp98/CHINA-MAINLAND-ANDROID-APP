@@ -1,0 +1,12 @@
+# 中国常用航空公司
+app-list:
+  - "com.airchina.phoneclient": "中国国航"
+  - "com.csair.mbp": "南方航空"
+  - "com.ceair.android": "东方航空"
+  - "com.hnair.android": "海南航空"
+  - "com.xiamenair.mbp": "厦门航空"
+  - "com.scal.mbp": "四川航空"
+  - "com.springairlines.card": "春秋航空"
+  - "com.juneyaoair.mbp": "吉祥航空"
+  - "com.shenzhenair.mbp": "深圳航空"
+  - "com.sda.mbp": "山东航空"

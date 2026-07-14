@@ -1,5 +1,7 @@
 帮我列出 xx公司 中国境内服务的最常用的安卓 app 
 文件命名格式 list/中文@英文编码.yaml
-格式如下 yaml : 
+格式如下 yaml :
+```yaml
 app-list:
   - "包名": app名
+```

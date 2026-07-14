@@ -1,0 +1,12 @@
+# 中国常用基金
+app-list:
+  - "com.eastmoney.android.fund": "天天基金"
+  - "com.efunds.mobile": "易方达基金"
+  - "com.chinaamc.mobile": "华夏基金管家"
+  - "com.gffunds.mobile": "广发基金"
+  - "com.nffund.mobile": "南方基金"
+  - "com.htffund.mobile": "汇添富现金宝"
+  - "com.fullgoal.mobile": "富国富钱包"
+  - "com.jsfund.mobile": "嘉实理财嘉"
+  - "com.bosera.mobile": "博时基金"
+  - "com.icbccs.mobile": "工银瑞信基金"

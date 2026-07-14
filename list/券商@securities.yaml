@@ -1,0 +1,14 @@
+# 中国常用券商
+app-list:
+  - "com.htsc.oneroad": "涨乐财富通"
+  - "com.citics.vip": "中信证券信e投"
+  - "com.gtja.yjb": "国泰君安君弘"
+  - "com.gf.gft": "广发易淘金"
+  - "com.cmschina.zqg": "招商证券"
+  - "com.htsec.itb": "e海通财"
+  - "com.chinastock.android": "中国银河证券"
+  - "com.csc.gsc": "中信建投蜻蜓点金"
+  - "com.eastmoney.android.berlin": "东方财富"
+  - "com.hexin.plat.android": "同花顺"
+  - "com.foundersc.sc": "方正证券小方"
+  - "com.xyzq.khd": "兴业证券优理宝"
