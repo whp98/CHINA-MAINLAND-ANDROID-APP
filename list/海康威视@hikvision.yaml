@@ -1,0 +1,11 @@
+app-list:
+  "com.videogo": "萤石云视频"
+  "com.hikvision.iVMS4500": "iVMS-4500"
+  "com.hikvision.eye": "海康云眸"
+  "com.hikvision.intercom": "海康互联"
+  "com.hikvision.hikvisioneye": "海康慧眼"
+  "com.hikvision.ivms8700": "iVMS-8700"
+  "com.hikvision.cloudmanager": "海康云管"
+  "com.hikvision.tempcamera": "海康测温"
+  "com.hikvision.storage": "海康存储"
+  "com.hikvision.robot": "海康机器人"

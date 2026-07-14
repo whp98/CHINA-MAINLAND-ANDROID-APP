@@ -1,0 +1,51 @@
+app-list:
+  # 腾讯系热门游戏
+  - "com.tencent.tmgp.sgame": 王者荣耀
+  - "com.tencent.tmgp.pubgmhd": 和平精英
+  - "com.tencent.tmgp.cf": 穿越火线-枪战王者
+  - "com.tencent.tmgp.cod": 使命召唤手游
+  - "com.tencent.tmgp.qqx5": QQ飞车
+  - "com.tencent.tmgp.nfsol": 极品飞车在线
+  - "com.tencent.tmgp.ttlz": 天天爱消除
+  - "com.tencent.jkchess": 金铲铲之战
+  - "com.tencent.tmgp.wec": 英雄联盟手游
+  - "com.tencent.tmgp.qqx5": 部落冲突
+  - "com.tencent.tmgp.qqlmt": 欢乐斗地主
+  
+  # 网易系热门游戏
+  - "com.netease.dwrg": 第五人格
+  - "com.netease.mrzh": 明日之后
+  - "com.netease.eggy": 蛋仔派对
+  - "com.netease.onmyoji": 阴阳师
+  - "com.netease.sky": 光·遇
+  - "com.netease.mhxy": 梦幻西游
+  - "com.netease.lrs": 率土之滨
+  - "com.netease.ad1": 暗黑破坏神：不朽
+  - "com.netease.mrzh.lite": 荒野行动
+  
+  # 米哈游系热门游戏
+  - "com.miHoYo.Yuanshen": 原神
+  - "com.miHoYo.bh3": 崩坏3
+  - "com.miHoYo.SR": 崩坏：星穹铁道
+  - "com.miHoYo.Nap": 绝区零
+  
+  # 鹰角、叠纸等其他热门厂商
+  - "com.hypergryph.arknights": 明日方舟
+  - "com.papegames.shining": 闪耀暖暖
+  - "com.papegames.nn": 恋与制作人
+  - "com.sofunny.Sausage": 香肠派对
+  - "com.chillyroom.soulknight": 元气骑士
+  - "com.bilibili.azurlane": 碧蓝航线
+  - "com.bilibili.fatego": 命运-冠位指定
+  
+  # 经典休闲与其他热门手游
+  - "com.happyelements.animal": 开心消消乐
+  - "com.supercell.clashofclans.uc": 部落冲突
+  - "com.mojang.minecraftpe": 我的世界
+  - "com.t2cn.ccm": 创造与魔法
+  - "com.ztgame.yyzy": 月圆之夜
+  - "com.blizzard.wtcg.hearthstone": 炉石传说
+  - "com.pwrd.tzyz": 桃源深处有人家
+  - "com.xd.tls": 火炬之光：无限
+  - "com.habby.archero": 弓箭传说
+  - "com.turbochilli.rollingsky": 滚动的天空

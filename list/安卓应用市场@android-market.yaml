@@ -1,0 +1,14 @@
+app-list:
+  # 国内主流安卓应用市场
+  - "com.huawei.appmarket": 华为应用市场
+  - "com.xiaomi.market": 小米应用商店
+  - "com.oppo.market": OPPO软件商店
+  - "com.heytap.market": 一加应用商店
+  - "com.bbk.appstore": vivo应用商店
+  - "com.meizu.mstore": 魅族应用商店
+  - "com.tencent.android.qqdownloader": 腾讯应用宝
+  - "com.qihoo.appstore": 360手机助手
+  - "com.baidu.appsearch": 百度手机助手
+  - "com.wandoujia.phoenix2": 豌豆荚
+  - "com.yingyonghui.market": 应用汇
+  - "com.coolapk.market": CoolApk
