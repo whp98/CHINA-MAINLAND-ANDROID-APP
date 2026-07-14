@@ -1,0 +1,5 @@
+# 蚂蚁集团
+app-list:
+  - "com.eg.android.AlipayGphone": "支付宝"
+  - "com.antfortune.wealth": "蚂蚁财富"
+  - "cn.com.mybank.android.phone": "网商银行"

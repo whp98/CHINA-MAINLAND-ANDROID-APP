@@ -1,0 +1,4 @@
+# 微博
+app-list:
+  - "com.sina.weibo": "微博"
+  - "com.sina.weibolite": "微博极速版"

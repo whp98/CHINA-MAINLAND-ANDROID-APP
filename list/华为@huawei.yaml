@@ -1,0 +1,10 @@
+# 华为
+app-list:
+  - "com.huawei.appmarket": "华为应用市场"
+  - "com.huawei.browser": "华为浏览器"
+  - "com.huawei.health": "华为运动健康"
+  - "com.huawei.wallet": "华为钱包"
+  - "com.huawei.smarthome": "华为智能家居"
+  - "com.huawei.maps.app": "花瓣地图"
+  - "com.huawei.video": "华为视频"
+  - "com.android.mediacenter": "华为音乐"

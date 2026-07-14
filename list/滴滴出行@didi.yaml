@@ -1,0 +1,6 @@
+# 滴滴出行
+app-list:
+  - "com.sdu.didi.psngr": "滴滴出行"
+  - "com.sdu.didi.gsg": "滴滴车主"
+  - "com.didiglobal.passenger": "花小猪打车"
+  - "com.didiglobal.driver": "花小猪车主"

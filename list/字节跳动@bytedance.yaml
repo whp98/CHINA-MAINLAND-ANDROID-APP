@@ -1,0 +1,226 @@
+# 字节跳动
+app-list:
+
+# 短视频主矩阵 1-20
+
+- "com.ss.android.ugc.aweme": 抖音
+- "com.ss.android.ugc.aweme.lite": 抖音极速版
+- "com.ss.android.ugc.aweme.elder": 抖音大字版
+- "com.ss.android.ugc.aweme.enterprise": 企业抖音
+- "com.ss.android.ugc.aweme.creator": 抖音创作者中心
+- "com.ss.android.article.video": 西瓜视频
+- "com.ss.android.article.video.lite": 西瓜视频极速版
+- "com.ss.android.ugc.xigua.elder": 西瓜大字版
+- "com.phoenix.video": 红果短剧
+- "com.ss.android.ugc.huoshan": 火山版抖音（原火山小视频）
+- "com.lemon.lv": 剪映
+- "com.lemon.lv.pro": 剪映专业版
+- "com.lemon.lv.cut": 剪映极速版
+- "com.ss.android.music": 汽水音乐
+- "com.ss.android.music.lite": 汽水音乐极速版
+- "com.ss.android.ugc.star": 星图 APP
+- "com.bytedance.ad.deliver": 巨量引擎
+- "com.bytedance.ad.qianchuan": 巨量千川
+- "com.ss.android.ugc.tiktokshop": 抖音电商商家版
+- "com.ss.android.ugc.live.anchor": 抖音直播伴侣手机版
+
+# 资讯内容矩阵 21-45
+
+- "com.ss.android.article.news": 今日头条
+- "com.ss.android.article.lite": 今日头条极速版
+- "com.ss.android.article.elder": 今日头条大字版
+- "com.ss.android.article.search": 头条搜索
+- "com.ss.android.article.search.lite": 头条搜索极速版
+- "com.ss.android.reader": 头条小说
+- "com.ss.android.reader.lite": 头条小说极速版
+- "com.ss.android.book": 头条读书
+- "com.ss.android.question": 头条问答
+- "com.ss.android.toutiao.media": 头条号创作者
+- "com.ss.android.auto": 懂车帝
+- "com.ss.android.auto.lite": 懂车帝极速版
+- "com.ss.android.home": 住小帮
+- "com.ss.android.home.lite": 住小帮极速版
+- "com.ss.android.food": 好好吃饭
+- "com.ss.android.travel": 番茄旅行
+- "com.ss.android.finance": 海豚股票
+- "com.ss.android.finance.lite": 海豚股票极速版
+- "com.ss.android.sport": 懂球帝（字节运营版）
+- "com.ss.android.pet": 萌宠乐园
+- "com.ss.android.cosmetic": 可丽护肤
+- "com.ss.android.movie": 番茄影视
+- "com.ss.android.history": 头条历史
+- "com.ss.android.military": 头条军事
+- "com.ss.android.tech": 头条科技
+
+# AI 大模型 & 工具类 46-70
+
+- "com.larus.nova": 豆包
+- "com.larus.nova.pro": 豆包专业版
+- "com.larus.nova.lite": 豆包极速版
+- "com.bytedance.translate": 火山翻译
+- "com.bytedance.ocr": 火山文字识别
+- "com.bytedance.voice": 火山语音助手
+- "com.bytedance.ai.draw": 豆包 AI 绘画
+- "com.bytedance.ai.video": 豆包 AI 视频
+- "com.cat.readall": 悟空浏览器
+- "com.aoyi.calendar": 好运到万年历
+- "com.ss.android.clean": 番茄清理大师
+- "com.ss.android.file": 番茄文件管理器
+- "com.ss.android.calculator": 番茄计算器
+- "com.ss.android.compass": 番茄指南针
+- "com.ss.android.weather": 番茄天气
+- "com.ss.android.mirror": 番茄镜子
+- "com.ss.android.qrcode": 番茄扫码
+- "com.ss.android.compress": 番茄解压大师
+- "com.ss.android.shift": 唰唰换机
+- "com.ss.android.recorder": 番茄录音笔
+- "com.ss.android.scan": 番茄扫描王
+- "com.ss.android.flashlight": 番茄手电筒
+- "com.ss.android.lock": 番茄应用锁
+- "com.ss.android.note": 番茄备忘录
+- "com.ss.android.clock": 番茄闹钟
+
+# 办公协同飞书系列 71-95
+
+- "com.ss.android.lark": 飞书
+- "com.ss.android.lark.lite": 飞书极速版
+- "com.ss.android.lark.enterprise": 飞书企业专属版
+- "com.ss.android.lark.meeting": 飞书会议独立版
+- "com.ss.android.lark.doc": 飞书文档独立版
+- "com.ss.android.lark.table": 飞书多维表格
+- "com.ss.android.lark.project": 飞书项目
+- "com.ss.android.lark.approvals": 飞书审批
+- "com.ss.android.lark.hire": 飞书招聘
+- "com.ss.android.lark.performance": 飞书绩效
+- "com.ss.android.lark.okr": 飞书 OKR
+- "com.ss.android.lark.contract": 飞书合同
+- "com.ss.android.lark.expense": 飞书报销
+- "com.ss.android.lark.mail": 飞书邮箱
+- "com.ss.android.lark.calendar": 飞书日历
+- "com.ss.android.lark.minutes": 飞书纪要助手
+- "com.ss.android.lark.ai": 飞书 AI 助手
+- "com.ss.android.lark.store": 飞书应用市场
+- "com.ss.android.lark.admin": 飞书管理员后台
+- "com.ss.android.lark.crm": 飞书 CRM
+- "com.ss.android.lark.legal": 飞书法务
+- "com.ss.android.lark.training": 飞书培训
+- "com.ss.android.lark.attendance": 飞书打卡
+- "com.ss.android.lark.im": 飞书即时通讯轻量版
+- "com.agent.space": 扣子空间（AI 协同开发）
+
+# 教育学习产品线 96-120
+
+- "com.ss.android.study": 学浪
+- "com.ss.android.study.lite": 学浪极速版
+- "com.ss.android.study.teacher": 学浪老师端
+- "com.ss.android.study.student": 学浪学生端
+- "com.ss.android.kid": 小趣星
+- "com.ss.android.kid.lite": 小趣星极速版
+- "com.ss.android.teen": 好奇小知
+- "com.ss.android.teacher": 谭水源
+- "com.ss.android.highschool": 河马爱学
+- "com.ss.android.word": 番茄背单词
+- "com.ss.android.math": 番茄数学
+- "com.ss.android.english": 番茄英语
+- "com.ss.android.calligraphy": 番茄练字
+- "com.ss.android.painting": 番茄少儿绘画
+- "com.ss.android.piano": 番茄钢琴陪练
+- "com.ss.android.exam": 番茄题库
+- "com.ss.android.paper": 番茄错题本
+- "com.ss.android.read.kid": 番茄少儿阅读
+- "com.ss.android.history.study": 历史课堂
+- "com.ss.android.chemistry": 化学实验室
+- "com.ss.android.physics": 物理模拟实验室
+- "com.ss.android.biology": 生物图解课堂
+- "com.ss.android.geography": 地理星球
+- "com.ss.android.call": 番茄线上家教
+- "com.ss.android.certificate": 考证助手
+
+# 游戏 & 休闲平台 121-145
+
+- "com.bytedance.game.momoyu": 摸摸鱼
+- "com.bytedance.game.ohayoo": Ohayoo 游戏盒
+- "com.bytedance.game.danjuan": 蛋卷游戏
+- "com.bytedance.game.aoli": 嗷哩云游戏
+- "com.bytedance.game.store": 字节游戏中心
+- "com.ss.android.game.wildrift": 英雄联盟手游（字节渠道）
+- "com.ss.android.game.crystalcore": 晶核
+- "com.ss.android.game.miku": 初音未来缤纷舞台
+- "com.ss.android.game.yinfei": 银与绯
+- "com.ss.android.game.clockwork": 发条总动员
+- "com.ss.android.game.adventure": 幻世与冒险
+- "com.ss.android.game.puzzle": 番茄解谜合集
+- "com.ss.android.game.match": 番茄消除乐园
+- "com.ss.android.game.run": 番茄跑酷大师
+- "com.ss.android.game.simulation": 番茄模拟经营
+- "com.ss.android.game.chess": 番茄象棋
+- "com.ss.android.game.poker": 番茄斗地主
+- "com.ss.android.game.mahjong": 番茄麻将
+- "com.ss.android.game.cards": 番茄卡牌对战
+- "com.ss.android.game.arcade": 番茄街机合集
+- "com.ss.android.game.farm": 开心田园
+- "com.ss.android.game.fishing": 深海垂钓
+- "com.ss.android.game.block": 方块消消乐
+- "com.ss.android.game.bubble": 泡泡龙大师
+- "com.ss.android.game.zoo": 动物乐园消消乐
+
+# 生活健康服务 146-170
+
+- "com.ss.android.health": 小荷健康
+- "com.ss.android.health.lite": 小荷健康极速版
+- "com.ss.android.hospital": 小荷挂号
+- "com.ss.android.doctor": 在线问诊
+- "com.ss.android.medicine": 小荷大药房
+- "com.ss.android.fitness": 番茄健身
+- "com.ss.android.yoga": 番茄瑜伽
+- "com.ss.android.run": 番茄跑步计步
+- "com.ss.android.sleep": 番茄睡眠助手
+- "com.ss.android.diet": 番茄饮食记录
+- "com.ss.android.weight": 番茄体重管理
+- "com.ss.android.massage": 番茄按摩指南
+- "com.ss.android.mental": 番茄心理舒缓
+- "com.ss.android.maternity": 番茄孕期助手
+- "com.ss.android.baby": 番茄育儿管家
+- "com.ss.android.oldcare": 番茄长辈健康
+- "com.ss.android.dental": 口腔健康管家
+- "com.ss.android.eye": 番茄护眼助手
+- "com.ss.android.heart": 心脏健康监测
+- "com.ss.android.diabetes": 血糖记录助手
+- "com.ss.android.allergy": 过敏记录工具
+- "com.ss.android.vaccine": 疫苗接种提醒
+- "com.ss.android.firstaid": 急救知识手册
+- "com.ss.android.nutrition": 营养食谱大全
+- "com.ss.android.menstrual": 番茄经期助手
+
+# 创作者、图片、商业工具 171-200
+
+- "com.ss.android.tuchong": 图虫创意
+- "com.ss.android.tuchong.lite": 图虫极速版
+- "com.ss.android.photo": 番茄修图
+- "com.ss.android.camera": 番茄原相机
+- "com.ss.android.sticker": 番茄贴纸制作
+- "com.ss.android.watermark": 番茄去水印
+- "com.ss.android.cut.pic": 番茄图片裁剪
+- "com.ss.android.collage": 番茄拼图大师
+- "com.ss.android.filter": 番茄滤镜相机
+- "com.ss.android.meme": 番茄表情包制作
+- "com.ss.android.poster": 番茄海报设计
+- "com.ss.android.ppt": 番茄 PPT 生成器
+- "com.ss.android.resume": 番茄简历制作
+- "com.ss.android.card": 电子名片生成
+- "com.ss.android.voucher": 电子优惠券工具
+- "com.ss.android.store.owner": 抖音小店商家版
+- "com.ss.android.store.assistant": 小店经营助手
+- "com.ss.android.logistics": 抖店物流助手
+- "com.ss.android.refund": 售后处理助手
+- "com.ss.android.data": 经营数据看板
+- "com.ss.android.coupon": 商家优惠券工具
+- "com.ss.android.live.data": 直播数据助手
+- "com.ss.android.short.data": 短视频数据分析
+- "com.ss.android.audit": 内容合规检测工具
+- "com.ss.android.monitor": 账号安全管家
+- "com.bytedance.volcengine.client": 火山引擎移动端控制台
+- "com.bytedance.crowd": 字节众包平台
+- "com.bytedance.recruit": 字节招聘 APP
+- "com.bytedance.security": 字节安全中心
+- "com.bytedance.service": 字节客服助手

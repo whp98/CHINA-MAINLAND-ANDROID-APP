@@ -3,6 +3,6 @@
 规则格式
 
 ```yaml
-list:
-    - "com.tencent.mm": 微信
+app-list:
+  - "com.tencent.mm": 微信
 ```

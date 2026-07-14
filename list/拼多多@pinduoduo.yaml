@@ -1,0 +1,5 @@
+# 拼多多
+app-list:
+  - "com.xunmeng.pinduoduo": "拼多多"
+  - "com.xunmeng.merchant": "拼多多商家版"
+  - "com.temu.app": "Temu"

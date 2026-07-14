@@ -1,0 +1,7 @@
+# 京东
+app-list:
+  - "com.jingdong.app.mall": "京东"
+  - "com.jd.jdspeed": "京东特价版"
+  - "com.jd.jrapp": "京东金融"
+  - "com.jd.jdhealth": "京东健康"
+  - "com.jddj.android": "京东到家"
