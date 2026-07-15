@@ -1,0 +1,25 @@
+# 音乐APP
+app-list:
+  # 综合音乐平台（听/下载/分享/轻度编辑）
+  - "com.tencent.qqmusic": "QQ音乐"
+  - "com.netease.cloudmusic": "网易云音乐"
+  - "com.kugou.android": "酷狗音乐"
+  - "cn.kuwo.player": "酷我音乐"
+  - "com.luna.music": "汽水音乐"
+  - "fm.xiami.main": "虾米音乐（存量可用）"
+  # 原创翻唱上传分享类（听/上传/分享/录音编辑）
+  - "com.sing.client": "5sing原创音乐"
+  - "com.changba": "唱吧"
+  - "com.tencent.karaoke": "全民K歌"
+  # 专业音乐音频编辑工具（剪辑/混音/变速/提取音频）
+  - "com.tianxingjian.supersound": "超级音乐编辑器"
+  - "com.lixiangdong.songcutter": "音频剪辑"
+  - "com.audiomix": "音编美声"
+  - "com.guardtech.ringtoned": "音乐剪辑全能王"
+  - "com.pfseaf.hbehw": "库乐队（安卓版）"
+  # 多轨编曲创作类（音乐制作/编曲/录音导出）
+  - "com.woowey.smartband": "随身乐队"
+  # 本地纯净播放器（本地听歌、缓存下载、基础剪辑）
+  - "com.simple.player.audio": "简易音乐播放器"
+  # 短视频配套音频工具（提取BGM、剪辑、下载配乐）
+  - "com.lemon.lvoverseas": "剪映（音频编辑模块）"

@@ -1,6 +1,6 @@
 # 自动生成 Clash Rule-Set: Android Apps
 payload:
-  - PROCESS-NAME,air.tv.douyu.android #Android:斗鱼
+  - PROCESS-NAME,air.tv.douyu.android #Android:斗鱼直播
   - PROCESS-NAME,bubei.tingshu #Android:懒人畅听(懒人听书)
   - PROCESS-NAME,cn.cntvnews #Android:央视新闻
   - PROCESS-NAME,cn.com.cmbc.mbank #Android:中国民生银行
@@ -170,6 +170,7 @@ payload:
   - PROCESS-NAME,com.arashivision.insta360 #Android:Insta360
   - PROCESS-NAME,com.arashivision.onex #Android:Insta360 ONE X
   - PROCESS-NAME,com.asiainfo.smart #Android:亚信智能
+  - PROCESS-NAME,com.audiomix #Android:音编美声
   - PROCESS-NAME,com.autonavi.amapauto #Android:高德地图车机版
   - PROCESS-NAME,com.autonavi.bike #Android:高德骑行
   - PROCESS-NAME,com.autonavi.bus #Android:高德公交地铁
@@ -244,6 +245,7 @@ payload:
   - PROCESS-NAME,com.baidu.duer.robot #Android:小度机器人配套
   - PROCESS-NAME,com.baidu.duer.speaker #Android:小度音箱控制
   - PROCESS-NAME,com.baidu.duer.work #Android:小度办公助手
+  - PROCESS-NAME,com.baidu.dujia #Android:度加剪辑
   - PROCESS-NAME,com.baidu.duxiaoxiao #Android:度晓晓
   - PROCESS-NAME,com.baidu.editor #Android:百度文档编辑器
   - PROCESS-NAME,com.baidu.education #Android:百度教育
@@ -263,6 +265,7 @@ payload:
   - PROCESS-NAME,com.baidu.game.h5 #Android:百度 H5 游戏大厅
   - PROCESS-NAME,com.baidu.garden #Android:百度家居
   - PROCESS-NAME,com.baidu.groupbuy #Android:百度社区团购
+  - PROCESS-NAME,com.baidu.haokan #Android:好看视频
   - PROCESS-NAME,com.baidu.haokan.elder #Android:好看视频长辈版
   - PROCESS-NAME,com.baidu.haokan.lite #Android:好看视频极速版
   - PROCESS-NAME,com.baidu.hd.loan #Android:有钱花
@@ -547,7 +550,7 @@ payload:
   - PROCESS-NAME,com.dianrong.loan #Android:点融网
   - PROCESS-NAME,com.didiglobal.driver #Android:花小猪车主
   - PROCESS-NAME,com.didiglobal.passenger #Android:花小猪打车
-  - PROCESS-NAME,com.dji.mimo #Android:DJI Mimo
+  - PROCESS-NAME,com.dji.mimo #Android:DJI Mimo（大疆视频剪辑）
   - PROCESS-NAME,com.dji.ronin #Android:DJI Ronin
   - PROCESS-NAME,com.dji.store #Android:DJI Store大疆商城
   - PROCESS-NAME,com.douban.frodo #Android:豆瓣
@@ -556,7 +559,7 @@ payload:
   - PROCESS-NAME,com.duokan.phone.remotecontroller #Android:万能遥控
   - PROCESS-NAME,com.duokan.reader #Android:多看阅读
   - PROCESS-NAME,com.duowan.kiwi #Android:虎牙直播
-  - PROCESS-NAME,com.duowan.mobile #Android:YY
+  - PROCESS-NAME,com.duowan.mobile #Android:YY直播
   - PROCESS-NAME,com.duoyi.shenwu #Android:神武
   - PROCESS-NAME,com.dushu.tushu #Android:帆书(原樊登读书)
   - PROCESS-NAME,com.dxy.dxyer #Android:丁香园
@@ -567,6 +570,7 @@ payload:
   - PROCESS-NAME,com.efunds.mobile #Android:易方达基金
   - PROCESS-NAME,com.eg.android.AlipayGphone #Android:支付宝
   - PROCESS-NAME,com.ele.taobao #Android:淘宝闪购
+  - PROCESS-NAME,com.erciyuan.live #Android:哔哩哔哩直播姬
   - PROCESS-NAME,com.eternal.perfume #Android:颖通
   - PROCESS-NAME,com.evernote #Android:印象笔记
   - PROCESS-NAME,com.faloo.reader #Android:飞卢小说
@@ -597,6 +601,7 @@ payload:
   - PROCESS-NAME,com.growingio.android #Android:GrowingIO
   - PROCESS-NAME,com.gtja.yjb #Android:国泰君安君弘
   - PROCESS-NAME,com.guangming.gmapp #Android:光明日报
+  - PROCESS-NAME,com.guardtech.ringtoned #Android:音乐剪辑全能王
   - PROCESS-NAME,com.guazi.ot.buyer #Android:瓜子二手车
   - PROCESS-NAME,com.guokr.guokr #Android:果壳
   - PROCESS-NAME,com.gw.com.android #Android:大智慧
@@ -638,11 +643,13 @@ payload:
   - PROCESS-NAME,com.htffund.mobile #Android:汇添富现金宝
   - PROCESS-NAME,com.htsc.oneroad #Android:涨乐财富通
   - PROCESS-NAME,com.htsec.itb #Android:e海通财
+  - PROCESS-NAME,com.huajiao #Android:花椒直播
   - PROCESS-NAME,com.huanqiu.news #Android:环球时报
   - PROCESS-NAME,com.huasheng.car #Android:花生好车
   - PROCESS-NAME,com.huawei.appmarket #Android:华为应用市场
   - PROCESS-NAME,com.huawei.browser #Android:华为浏览器
   - PROCESS-NAME,com.huawei.health #Android:华为运动健康
+  - PROCESS-NAME,com.huawei.himovie #Android:华为视频
   - PROCESS-NAME,com.huawei.maps.app #Android:花瓣地图
   - PROCESS-NAME,com.huawei.smarthome #Android:华为智能家居
   - PROCESS-NAME,com.huawei.video #Android:华为视频
@@ -711,9 +718,13 @@ payload:
   - PROCESS-NAME,com.ksyun.ks3 #Android:金山云
   - PROCESS-NAME,com.kuai.kuaikan #Android:快看小说
   - PROCESS-NAME,com.kuaikan.comic #Android:快看漫画
+  - PROCESS-NAME,com.kuaishou.clip #Android:快影
+  - PROCESS-NAME,com.kuaishou.kwai #Android:快手
+  - PROCESS-NAME,com.kuaishou.kyminia #Android:快手极速版
   - PROCESS-NAME,com.kuaishou.livepartner #Android:快手直播伴侣
   - PROCESS-NAME,com.kuaishou.nebula #Android:快手极速版
   - PROCESS-NAME,com.kugou.android #Android:酷狗音乐
+  - PROCESS-NAME,com.kugou.live #Android:酷狗直播
   - PROCESS-NAME,com.kugou.reader #Android:酷狗听书
   - PROCESS-NAME,com.kunlun.play #Android:昆仑游戏
   - PROCESS-NAME,com.kuwo.reader #Android:酷我畅听
@@ -721,10 +732,13 @@ payload:
   - PROCESS-NAME,com.larus.nova.lite #Android:豆包极速版
   - PROCESS-NAME,com.larus.nova.pro #Android:豆包专业版
   - PROCESS-NAME,com.lbe.security.miui #Android:权限控制器
+  - PROCESS-NAME,com.le.tv #Android:乐视视频
   - PROCESS-NAME,com.leju.house #Android:乐居买房
-  - PROCESS-NAME,com.lemon.lv #Android:剪映
+  - PROCESS-NAME,com.lemon.faceu #Android:Faceu激萌（拍摄剪辑一体）
+  - PROCESS-NAME,com.lemon.lv #Android:剪映(CapCut)
   - PROCESS-NAME,com.lemon.lv.cut #Android:剪映极速版
   - PROCESS-NAME,com.lemon.lv.pro #Android:剪映专业版
+  - PROCESS-NAME,com.lemon.lvoverseas #Android:剪映（音频编辑模块）
   - PROCESS-NAME,com.leqee.smart #Android:乐其智能
   - PROCESS-NAME,com.lexue.vip #Android:乐学
   - PROCESS-NAME,com.lianjia.beike #Android:贝壳找房
@@ -733,9 +747,12 @@ payload:
   - PROCESS-NAME,com.linkedin.android #Android:领英
   - PROCESS-NAME,com.liulishuo.engzo #Android:流利说英语
   - PROCESS-NAME,com.liulishuo.llspay #Android:流利说阅读
+  - PROCESS-NAME,com.liumingyou.aijianji #Android:爱剪辑手机版
   - PROCESS-NAME,com.lixiang.car #Android:理想汽车
+  - PROCESS-NAME,com.lixiangdong.songcutter #Android:音频剪辑
   - PROCESS-NAME,com.lizhi.fm #Android:荔枝FM
   - PROCESS-NAME,com.longtugame.wj #Android:小冰冰传奇
+  - PROCESS-NAME,com.luna.music #Android:汽水音乐
   - PROCESS-NAME,com.luojilab.duokan #Android:得到
   - PROCESS-NAME,com.luojilab.player #Android:得到
   - PROCESS-NAME,com.manbo.missevan #Android:漫播
@@ -839,6 +856,7 @@ payload:
   - PROCESS-NAME,com.netease.onmyoji #Android:阴阳师
   - PROCESS-NAME,com.netease.sky #Android:光·遇
   - PROCESS-NAME,com.netease.yanxuan #Android:网易严选
+  - PROCESS-NAME,com.nexstreaming.app.kinemasterfree #Android:巧影(KineMaster)
   - PROCESS-NAME,com.nffund.mobile #Android:南方基金
   - PROCESS-NAME,com.ngmm365.android #Android:年糕妈妈
   - PROCESS-NAME,com.nhsa.mobile #Android:国家医保服务平台
@@ -859,6 +877,7 @@ payload:
   - PROCESS-NAME,com.pearvideo.android #Android:梨视频
   - PROCESS-NAME,com.people.cn #Android:人民网+
   - PROCESS-NAME,com.peopledailychina.activity #Android:人民日报
+  - PROCESS-NAME,com.pfseaf.hbehw #Android:库乐队（安卓版）
   - PROCESS-NAME,com.phoenix.video #Android:红果短剧
   - PROCESS-NAME,com.picc.pco #Android:中国人保
   - PROCESS-NAME,com.pingan.car #Android:平安好车主
@@ -867,6 +886,7 @@ payload:
   - PROCESS-NAME,com.pingan.lifeinsurance #Android:平安金管家
   - PROCESS-NAME,com.pingan.pabank #Android:平安银行
   - PROCESS-NAME,com.pingan.yiqianbao #Android:平安口袋银行
+  - PROCESS-NAME,com.pplive.androidphone #Android:PP视频
   - PROCESS-NAME,com.psbc.china.mobilebank #Android:中国邮政储蓄银行
   - PROCESS-NAME,com.pwrd.laohu.zhushou #Android:完美世界游戏
   - PROCESS-NAME,com.pwrd.tzyz #Android:桃源深处有人家
@@ -894,6 +914,8 @@ payload:
   - PROCESS-NAME,com.qiyi.video #Android:爱奇艺
   - PROCESS-NAME,com.qiyi.video.child #Android:爱奇艺奇巴布
   - PROCESS-NAME,com.qiyi.video.lite #Android:爱奇艺极速版
+  - PROCESS-NAME,com.qq.kuaikan #Android:快看点
+  - PROCESS-NAME,com.qq.qqlivemini #Android:腾讯视频极速版
   - PROCESS-NAME,com.qq.reader #Android:QQ阅读
   - PROCESS-NAME,com.qsc.crowdfunding #Android:轻松筹
   - PROCESS-NAME,com.qualcomm.qti.performancemode #Android:性能模式
@@ -916,6 +938,7 @@ payload:
   - PROCESS-NAME,com.rtmart.mobile #Android:大润发优鲜
   - PROCESS-NAME,com.ruguoapp.jike #Android:即刻
   - PROCESS-NAME,com.samr.12315 #Android:12315
+  - PROCESS-NAME,com.samsung.android.video #Android:三星视频
   - PROCESS-NAME,com.sangfor.vpn.client.phone #Android:深信服EasyConnect
   - PROCESS-NAME,com.sankuai.meituan #Android:美团
   - PROCESS-NAME,com.sankuai.meituan.accident #Android:骑手事故理赔端
@@ -1152,19 +1175,23 @@ payload:
   - PROCESS-NAME,com.shopee.cn #Android:Shopee
   - PROCESS-NAME,com.shuidihuzhu.mutual #Android:水滴筹
   - PROCESS-NAME,com.shuqi.controller #Android:书旗小说
+  - PROCESS-NAME,com.simple.player.audio #Android:简易音乐播放器
   - PROCESS-NAME,com.sina.finance #Android:新浪财经
   - PROCESS-NAME,com.sina.mail #Android:新浪邮箱
   - PROCESS-NAME,com.sina.news #Android:新浪新闻
   - PROCESS-NAME,com.sina.weibo #Android:微博
   - PROCESS-NAME,com.sina.weibolite #Android:微博极速版
+  - PROCESS-NAME,com.sing.client #Android:5sing原创音乐
   - PROCESS-NAME,com.sinosig.mobile #Android:阳光保险
   - PROCESS-NAME,com.sinovatech.unicom.ui #Android:中国联通
   - PROCESS-NAME,com.smartisan.notes #Android:锤子便签
   - PROCESS-NAME,com.smile.gifmaker #Android:快手
   - PROCESS-NAME,com.smzdm.client.android #Android:什么值得买
   - PROCESS-NAME,com.snda.wifilocating #Android:WiFi万能钥匙
+  - PROCESS-NAME,com.snowcorp.vita #Android:VITA剪辑
   - PROCESS-NAME,com.sofunny.Sausage #Android:香肠派对
   - PROCESS-NAME,com.sogou.activity.src #Android:搜狗搜索
+  - PROCESS-NAME,com.sogou.kankan #Android:搜狗看点
   - PROCESS-NAME,com.sogou.map.android.maps #Android:搜狗地图
   - PROCESS-NAME,com.sohu.infonews #Android:搜狐资讯
   - PROCESS-NAME,com.sohu.inputmethod.sogou #Android:搜狗输入法
@@ -1339,6 +1366,7 @@ payload:
   - PROCESS-NAME,com.ss.android.ugc.aweme.enterprise #Android:企业抖音
   - PROCESS-NAME,com.ss.android.ugc.aweme.lite #Android:抖音极速版
   - PROCESS-NAME,com.ss.android.ugc.huoshan #Android:火山版抖音（原火山小视频）
+  - PROCESS-NAME,com.ss.android.ugc.live #Android:抖音火山版(火山小视频)
   - PROCESS-NAME,com.ss.android.ugc.live.anchor #Android:抖音直播伴侣手机版
   - PROCESS-NAME,com.ss.android.ugc.star #Android:星图 APP
   - PROCESS-NAME,com.ss.android.ugc.tiktokshop #Android:抖音电商商家版
@@ -1451,6 +1479,7 @@ payload:
   - PROCESS-NAME,com.tencent.minihd.qq #Android:QQ HD
   - PROCESS-NAME,com.tencent.mm #Android:微信
   - PROCESS-NAME,com.tencent.mm.game #Android:微信小游戏容器
+  - PROCESS-NAME,com.tencent.mm.msecut #Android:秒剪
   - PROCESS-NAME,com.tencent.mm.plugin.appbrand #Android:微信小程序基础包
   - PROCESS-NAME,com.tencent.mm.plugin.game #Android:微信游戏中心
   - PROCESS-NAME,com.tencent.mm.plugin.wallet #Android:微信支付核心包
@@ -1478,7 +1507,7 @@ payload:
   - PROCESS-NAME,com.tencent.qqgame.mini #Android:QQ小游戏
   - PROCESS-NAME,com.tencent.qqim #Android:QQ轻聊版
   - PROCESS-NAME,com.tencent.qqlite #Android:QQ极速版
-  - PROCESS-NAME,com.tencent.qqlive #Android:QQ直播
+  - PROCESS-NAME,com.tencent.qqlive #Android:腾讯视频
   - PROCESS-NAME,com.tencent.qqlive.lite #Android:腾讯视频极速版
   - PROCESS-NAME,com.tencent.qqmail #Android:QQ邮箱
   - PROCESS-NAME,com.tencent.qqmedia #Android:QQ多媒体中心
@@ -1575,6 +1604,7 @@ payload:
   - PROCESS-NAME,com.tencent.weather #Android:腾讯天气
   - PROCESS-NAME,com.tencent.webook #Android:微信听书
   - PROCESS-NAME,com.tencent.wechatsport #Android:微信运动
+  - PROCESS-NAME,com.tencent.weishi #Android:腾讯微视
   - PROCESS-NAME,com.tencent.weiyun #Android:腾讯微云
   - PROCESS-NAME,com.tencent.weiyun.lite #Android:微云极速版
   - PROCESS-NAME,com.tencent.weread #Android:微信读书
@@ -1585,6 +1615,7 @@ payload:
   - PROCESS-NAME,com.thefair.read #Android:新世相
   - PROCESS-NAME,com.thepaper.bjnews #Android:北京日报
   - PROCESS-NAME,com.thirtysixkr.next #Android:36氪
+  - PROCESS-NAME,com.tianxingjian.supersound #Android:超级音乐编辑器
   - PROCESS-NAME,com.tinnov.carlink #Android:梧桐车联
   - PROCESS-NAME,com.tk.online #Android:泰康在线
   - PROCESS-NAME,com.tmall.au #Android:天猫澳洲
@@ -1608,6 +1639,7 @@ payload:
   - PROCESS-NAME,com.vivo.browser #Android:vivo浏览器
   - PROCESS-NAME,com.vivo.game #Android:vivo游戏中心
   - PROCESS-NAME,com.vivo.space #Android:vivo官网
+  - PROCESS-NAME,com.vivo.video #Android:vivo视频
   - PROCESS-NAME,com.vmic.smart #Android:维音
   - PROCESS-NAME,com.voc.com.cn #Android:新湖南
   - PROCESS-NAME,com.wandong.game #Android:玩动网络
@@ -1616,7 +1648,9 @@ payload:
   - PROCESS-NAME,com.wanmei.csgo.app #Android:完美世界电竞
   - PROCESS-NAME,com.weimob.saas #Android:微盟
   - PROCESS-NAME,com.wm.dmall #Android:多点
+  - PROCESS-NAME,com.wondershare.filmorago #Android:万兴喵影(FilmoraGo)
   - PROCESS-NAME,com.wondertek.paper #Android:澎湃新闻
+  - PROCESS-NAME,com.woowey.smartband #Android:随身乐队
   - PROCESS-NAME,com.wuba #Android:58同城
   - PROCESS-NAME,com.wuba.arecruit #Android:招财猫直聘
   - PROCESS-NAME,com.xd.tls #Android:火炬之光：无限
@@ -1624,6 +1658,7 @@ payload:
   - PROCESS-NAME,com.xgimi.control #Android:极米无屏助手
   - PROCESS-NAME,com.xiamenair.mbp #Android:厦门航空
   - PROCESS-NAME,com.xiaodian.power #Android:小电
+  - PROCESS-NAME,com.xiaokakeji.huya #Android:虎牙直播
   - PROCESS-NAME,com.xiaomi.ab #Android:小米商城系统组件
   - PROCESS-NAME,com.xiaomi.account #Android:小米帐号
   - PROCESS-NAME,com.xiaomi.aiasst.service #Android:AI虚拟助手
@@ -1663,6 +1698,7 @@ payload:
   - PROCESS-NAME,com.xiaomi.xmsf #Android:小米服务框架
   - PROCESS-NAME,com.xiaomi.youpin #Android:小米有品
   - PROCESS-NAME,com.xiaopeng.carcontrol #Android:小鹏汽车
+  - PROCESS-NAME,com.xiaoying.videoeditor #Android:小影
   - PROCESS-NAME,com.ximalaya.ting.android #Android:喜马拉雅
   - PROCESS-NAME,com.ximalaya.ting.kid #Android:喜马拉雅儿童
   - PROCESS-NAME,com.ximalaya.ting.lite #Android:喜马拉雅极速版
@@ -1690,6 +1726,7 @@ payload:
   - PROCESS-NAME,com.yingyonghui.market #Android:应用汇
   - PROCESS-NAME,com.yintai.lite #Android:银泰极速版
   - PROCESS-NAME,com.yintai.mobile #Android:银泰百货
+  - PROCESS-NAME,com.yixia.videoeditor #Android:秒拍
   - PROCESS-NAME,com.yixin.entertainment #Android:壹心娱乐
   - PROCESS-NAME,com.ylzinfo.chinahrss #Android:掌上12333
   - PROCESS-NAME,com.yn.yntp #Android:天眼新闻（贵州）
@@ -1703,6 +1740,7 @@ payload:
   - PROCESS-NAME,com.youku.lite #Android:优酷极速版
   - PROCESS-NAME,com.youku.movie #Android:优酷电影
   - PROCESS-NAME,com.youku.phone #Android:优酷
+  - PROCESS-NAME,com.youku.phone.lite #Android:优酷极速版
   - PROCESS-NAME,com.youku.short #Android:优酷短剧
   - PROCESS-NAME,com.youku.tv #Android:优酷TV版
   - PROCESS-NAME,com.youth.news #Android:中国青年报
@@ -1733,6 +1771,7 @@ payload:
   - PROCESS-NAME,dji.go.v4 #Android:DJI GO 4
   - PROCESS-NAME,dji.go.v5 #Android:DJI Fly
   - PROCESS-NAME,fm.qingting.qtradio #Android:蜻蜓FM
+  - PROCESS-NAME,fm.xiami.main #Android:虾米音乐（存量可用）
   - PROCESS-NAME,io.dcloud.H576E6CC7 #Android:鱼泡直聘
   - PROCESS-NAME,io.github.knokko.books #Android:阅读(开源)
   - PROCESS-NAME,jobs.51job #Android:前程无忧
@@ -1746,7 +1785,10 @@ payload:
   - PROCESS-NAME,me.ele.super #Android:饿了么超市
   - PROCESS-NAME,net.xinhuamm.mainclient #Android:新华社
   - PROCESS-NAME,org.coolreader #Android:CoolReader
-  - PROCESS-NAME,tv.danmaku.bili #Android:哔哩哔哩
+  - PROCESS-NAME,tv.cctv.cctv5g #Android:央视频
+  - PROCESS-NAME,tv.danmaku.bicut #Android:必剪
+  - PROCESS-NAME,tv.danmaku.bili #Android:哔哩哔哩(B站)
   - PROCESS-NAME,tv.danmaku.bili.link #Android:哔哩哔哩直播伴侣
+  - PROCESS-NAME,tv.danmaku.bili.lite #Android:哔哩哔哩极速版
   - PROCESS-NAME,tv.danmaku.bilibili.concept #Android:哔哩哔哩概念版
   - PROCESS-NAME,vStudio.Android.Camera360 #Android:Camera360

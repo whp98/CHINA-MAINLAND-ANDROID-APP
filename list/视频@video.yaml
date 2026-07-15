@@ -1,0 +1,56 @@
+app-list:
+  # 综合长视频（看视频类）
+  - "com.tencent.qqlive": "腾讯视频"
+  - "com.qiyi.video": "爱奇艺"
+  - "com.youku.phone": "优酷视频"
+  - "com.hunantv.imgo.activity": "芒果TV"
+  - "tv.cctv.cctv5g": "央视频"
+  - "com.le.tv": "乐视视频"
+  - "com.pplive.androidphone": "PP视频"
+  - "com.huawei.himovie": "华为视频"
+  - "com.vivo.video": "vivo视频"
+  - "com.miui.video": "小米视频"
+  - "com.samsung.android.video": "三星视频"
+  - "com.qq.qqlivemini": "腾讯视频极速版"
+  - "com.qiyi.video.lite": "爱奇艺极速版"
+  - "com.youku.phone.lite": "优酷极速版"
+
+  # 弹幕综合视频+直播（B站系）
+  - "tv.danmaku.bili": "哔哩哔哩(B站)"
+  - "tv.danmaku.bili.lite": "哔哩哔哩极速版"
+
+  # 短视频综合平台（含直播）
+  - "com.ss.android.ugc.aweme": "抖音短视频"
+  - "com.ss.android.ugc.aweme.lite": "抖音极速版"
+  - "com.ss.android.ugc.live": "抖音火山版(火山小视频)"
+  - "com.kuaishou.kwai": "快手"
+  - "com.kuaishou.kyminia": "快手极速版"
+  - "com.tencent.weishi": "腾讯微视"
+  - "com.yixia.videoeditor": "秒拍"
+  - "com.baidu.haokan": "好看视频"
+  - "com.baidu.haokan.lite": "好看视频极速版"
+  - "com.qq.kuaikan": "快看点"
+  - "com.sogou.kankan": "搜狗看点"
+
+  # 专业直播APP（游戏/娱乐直播）
+  - "air.tv.douyu.android": "斗鱼直播"
+  - "com.duowan.mobile": "YY直播"
+  - "com.huajiao": "花椒直播"
+  - "com.erciyuan.live": "哔哩哔哩直播姬"
+  - "com.tencent.now": "NOW直播"
+  - "com.kugou.live": "酷狗直播"
+  - "com.xiaokakeji.huya": "虎牙直播"
+
+  # 视频剪辑/编辑APP
+  - "com.lemon.lv": "剪映(CapCut)"
+  - "com.kuaishou.clip": "快影"
+  - "tv.danmaku.bicut": "必剪"
+  - "com.tencent.mm.msecut": "秒剪"
+  - "com.baidu.dujia": "度加剪辑"
+  - "com.wondershare.filmorago": "万兴喵影(FilmoraGo)"
+  - "com.nexstreaming.app.kinemasterfree": "巧影(KineMaster)"
+  - "com.snowcorp.vita": "VITA剪辑"
+  - "com.xiaoying.videoeditor": "小影"
+  - "com.liumingyou.aijianji": "爱剪辑手机版"
+  - "com.lemon.faceu": "Faceu激萌（拍摄剪辑一体）"
+  - "com.dji.mimo": "DJI Mimo（大疆视频剪辑）"
