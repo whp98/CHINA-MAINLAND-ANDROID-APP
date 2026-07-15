@@ -1,0 +1,47 @@
+# 小说APP
+app-list:
+  # 综合网文阅读（支持看书+内置听书）
+  - "com.dragon.read": "番茄免费小说"
+  - "com.kmxs.reader": "七猫免费小说"
+  - "com.qidian.QDReader": "起点读书"
+  - "com.qq.reader": "QQ阅读"
+  - "com.shuqi.controller": "书旗小说"
+  - "com.chaozh.iReaderFree": "掌阅iReader"
+  - "com.jjwxc.reader": "晋江小说阅读"
+  - "com.faloo.reader": "飞卢小说"
+  - "com.zhulang.reader": "逐浪小说"
+  - "com.mifengtd.ydread": "疯读小说"
+  - "com.danhua.reader": "蛋花免费小说"
+  - "com.kuai.kuaikan": "快看小说"
+  - "com.tencent.weread": "微信读书"
+  - "com.jd.reader": "京东读书"
+  - "com.feiku.reader": "17K小说网"
+  - "com.kanunu8.book": "塔读文学"
+
+  # 纯听书/有声小说APP（主打音频，附带少量阅读）
+  - "com.bytedance.audio": "番茄畅听"
+  - "com.ximalaya.ting.android": "喜马拉雅"
+  - "bubei.tingshu": "懒人畅听(懒人听书)"
+  - "fm.qingting.qtradio": "蜻蜓FM"
+  - "com.kuwo.reader": "酷我畅听"
+  - "com.kugou.reader": "酷狗听书"
+  - "com.tencent.webook": "微信听书"
+  - "com.missevan.m": "猫耳FM"
+  - "com.lizhi.fm": "荔枝FM"
+  - "com.manbo.missevan": "漫播"
+  - "com.baiting.audio": "百听听书"
+  - "com.xunyu.ting": "新语听书"
+  - "com.kaishustory.story": "凯叔讲故事"
+  - "com.luojilab.duokan": "得到"
+  - "com.dushu.tushu": "帆书(原樊登读书)"
+
+  # 本地开源阅读阅读器（支持导入书源+文字转语音听书）
+  - "io.github.knokko.books": "阅读(开源)"
+  - "moon+reader.pro": "静读天下专业版"
+  - "com.flyersoft.moonreader": "静读天下免费版"
+  - "org.coolreader": "CoolReader"
+
+  # 小众主流小说/听书补充
+  - "com.kanxiaoshuo.app": "免费听书王"
+  - "com.fanjiao.audio": "饭角"
+  - "com.iflytek.voicebook": "讯飞有声"
