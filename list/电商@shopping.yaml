@@ -1,0 +1,43 @@
+# 分类说明：1.综合购物 2.二手买卖(买/卖二手) 3.专业拍卖
+app-list:
+  # 一、综合通用购物APP
+  - "com.taobao.taobao": "淘宝"
+  - "com.tmall.wireless": "天猫"
+  - "com.jingdong.app.mall": "京东"
+  - "com.xunmeng.pinduoduo": "拼多多"
+  - "com.taotao.android": "淘特"
+  - "com.alibaba.wireless": "1688阿里巴巴批发"
+  - "com.suning.mobile.ebuy": "苏宁易购"
+  - "com.vipshop.android": "唯品会"
+  - "com.mogu.android.client": "蘑菇街"
+  - "com.chaoxing.zol": "中关村在线"
+  - "com.douyin.commerce": "抖音商城(抖音内置购物)"
+  - "com.kuaishou.commerce": "快手商城(快手内置购物)"
+  - "com.ikea.android": "宜家家居"
+  - "com.cdfg.cdfmall": "cdf海南免税"
+  - "com.wegou7788.android": "7788商城"
+  - "cn.missfresh.application": "每日优鲜"
+  - "com.dongfang.zhenxuan": "东方甄选"
+  - "com.shiguang.slowbuy": "慢慢买"
+  - "com.shihuo.app": "识货"
+  - "com.weidian.android": "微店"
+
+  # 二、二手买卖APP（支持买二手+卖二手）
+  - "com.taobao.idlefish": "闲鱼"
+  - "com.wuba.zhuanzhuan": "转转"
+  - "com.jiliang.jianji": "找靓机"
+  - "cn.fprice.app": "千循(分毫报价)"
+  - "com.guazi.android.haoche_c": "瓜子二手车"
+  - "com.renrenche.mobile": "人人车二手车"
+  - "com.paitang.app": "拍机堂(二手数码批发/零售)"
+  - "com.kdlego.app": "千岛(潮玩二手交易)"
+  - "com.ershouche.app": "优信二手车"
+
+  # 三、专业拍卖APP（司法/艺术品/资产/文玩拍卖）
+  - "com.taobao.auction": "阿里拍卖(淘宝拍卖)"
+  - "cn.org.caa.auction": "中拍平台(中国拍卖行业协会官方)"
+  - "com.weipaitang.app": "微拍堂(文玩直播拍卖)"
+  - "app.Artronauction": "雅昌拍卖图录"
+  - "com.epai.epai_android": "易拍全球"
+  - "cn.dcpai.auction": "龘藏(文玩艺术品拍卖)"
+  - "com.huachengpaimaiximuxuan.shop": "华诚优拍"
