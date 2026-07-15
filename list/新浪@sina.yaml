@@ -1,0 +1,8 @@
+# 新浪
+app-list:
+  - "com.sina.weibo": "微博"
+  - "com.sina.weibolite": "微博极速版"
+  - "com.sina.news": "新浪新闻"
+  - "com.sina.mail": "新浪邮箱"
+  - "cn.com.sina.sports": "新浪体育"
+  - "com.sina.finance": "新浪财经"

@@ -1,0 +1,5 @@
+# 搜狗
+app-list:
+  - "com.sohu.inputmethod.sogou": "搜狗输入法"
+  - "com.sogou.map.android.maps": "搜狗地图"
+  - "com.sogou.activity.src": "搜狗搜索"

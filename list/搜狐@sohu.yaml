@@ -1,0 +1,5 @@
+# 搜狐
+app-list:
+  - "com.sohu.sohuvideo": "搜狐视频"
+  - "com.sohu.news.client": "搜狐新闻"
+  - "com.sohu.infonews": "搜狐资讯"

@@ -1,0 +1,4 @@
+# 知乎
+app-list:
+  - "com.zhihu.android": "知乎"
+  - "com.zhihu.lite": "知乎极速版"

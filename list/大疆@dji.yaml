@@ -1,0 +1,7 @@
+# 大疆
+app-list:
+  - "dji.go.v4": "DJI GO 4"
+  - "dji.go.v5": "DJI Fly"
+  - "com.dji.mimo": "DJI Mimo"
+  - "com.dji.ronin": "DJI Ronin"
+  - "com.dji.store": "DJI Store大疆商城"

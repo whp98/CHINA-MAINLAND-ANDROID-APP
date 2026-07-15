@@ -1,0 +1,4 @@
+# 豆瓣
+app-list:
+  - "com.douban.frodo": "豆瓣"
+  - "com.douban.read": "豆瓣阅读"

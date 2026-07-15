@@ -1,0 +1,4 @@
+# 微店
+app-list:
+  - "com.koudai.weidian.buyer": "微店"
+  - "com.koudai.weidian.seller": "微店店长"

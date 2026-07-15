@@ -1,0 +1,5 @@
+# 科大讯飞
+app-list:
+  - "com.iflytek.inputmethod": "讯飞输入法"
+  - "com.iflytek.recinote": "讯飞听见"
+  - "com.iflytek.voicecloud": "讯飞语记"

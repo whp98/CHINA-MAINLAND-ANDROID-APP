@@ -1,0 +1,4 @@
+# 高德
+app-list:
+  - "com.autonavi.minimap": "高德地图"
+  - "com.autonavi.amapauto": "高德地图车机版"

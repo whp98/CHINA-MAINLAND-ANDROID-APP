@@ -1,0 +1,6 @@
+# 爱奇艺
+app-list:
+  - "com.qiyi.video": "爱奇艺"
+  - "com.qiyi.video.lite": "爱奇艺极速版"
+  - "com.qiyi.video.child": "爱奇艺奇巴布"
+  - "com.iqiyi.read": "爱奇艺阅读"

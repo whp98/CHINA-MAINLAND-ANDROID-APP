@@ -1,0 +1,4 @@
+# 去哪儿
+app-list:
+  - "com.Qunar": "去哪儿旅行"
+  - "com.qunar.phone.rider": "去哪儿专车"

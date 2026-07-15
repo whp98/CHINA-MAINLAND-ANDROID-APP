@@ -1,0 +1,6 @@
+# VIVO
+app-list:
+  - "com.bbk.appstore": "vivo应用商店"
+  - "com.vivo.browser": "vivo浏览器"
+  - "com.vivo.space": "vivo官网"
+  - "com.vivo.game": "vivo游戏中心"
