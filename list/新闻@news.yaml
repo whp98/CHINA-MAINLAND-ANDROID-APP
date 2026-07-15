@@ -1,0 +1,58 @@
+app-list:
+  # 中央级官方权威媒体（央媒）
+  - "net.xinhuamm.mainclient": "新华社"
+  - "com.peopledailychina.activity": "人民日报"
+  - "cn.cntvnews": "央视新闻"
+  - "com.guangming.gmapp": "光明日报"
+  - "com.chinadaily.android": "中国日报ChinaDaily"
+  - "com.huanqiu.news": "环球时报"
+  - "com.youth.news": "中国青年报"
+  - "com.chinanews.android": "中国新闻网"
+  - "com.people.cn": "人民网+"
+  - "com.cctv.newsplus": "央视频（含新闻资讯）"
+
+  # 全国主流综合头条资讯平台
+  - "com.ss.android.article.news": "今日头条"
+  - "com.ss.android.article.lite": "今日头条极速版"
+  - "com.tencent.news": "腾讯新闻"
+  - "com.netease.newsreader.activity": "网易新闻"
+  - "com.sohu.newsclient": "搜狐新闻"
+  - "com.sina.news": "新浪新闻"
+  - "com.yidian.news": "一点资讯"
+  - "shturl.cc/IdUx": "凤凰新闻"
+  - "com.zaker.android.zakercn": "ZAKER新闻"
+
+  # 全国性报业/主流市场化官媒客户端
+  - "com.wondertek.paper": "澎湃新闻"
+  - "com.jfdaily.shine": "上观新闻"
+  - "com.kankanews.knews": "看看新闻"
+  - "com.thepaper.bjnews": "北京日报"
+  - "com.xinhuanet.app": "新华网"
+  - "com.cyol.cn": "中青在线"
+
+  # 省级头部官方媒体客户端（主流常用）
+  - "com.voc.com.cn": "新湖南"
+  - "com.jstv.news": "荔枝新闻（江苏）"
+  - "com.scol.mobile": "四川观察"
+  - "com.yn.yntp": "天眼新闻（贵州）"
+  - "com.dahe.cn": "大河报豫见新闻"
+  - "com.cjn.cn": "长江日报"
+  - "com.cnhubei.app": "极目新闻"
+  - "com.ahnews.dawen": "大皖新闻（安徽）"
+  - "com.jhnews.jhapp": "交汇点新闻（江苏）"
+  - "com.qingdaonews.zsp": "掌上青岛"
+  - "com.nmgnews.prairiecloud": "草原云（内蒙古日报）"
+  - "com.nxnews.qinwen": "秦闻（宁夏日报）"
+  - "com.qhnews.qinghai": "青海观察"
+  - "com.sxgov.cn.mobile": "山西日报"
+  - "com.gxnews.gxapp": "广西日报"
+  - "com.hljnews.longtou": "龙头新闻（黑龙江）"
+  - "com.jilintv.cailian": "彩练新闻（吉林）"
+  - "com.btime.app": "北青报北京青年报"
+
+  # 行业垂直官方新闻媒体
+  - "com.caixin.android": "财新新闻"
+  - "com.21cbh.news": "21世纪经济报道"
+  - "com.yicai.news": "第一财经"
+  - "com.cankaoxiaoxi.app": "参考消息"
+  - "com.ce.cn.app": "中国经济网"
