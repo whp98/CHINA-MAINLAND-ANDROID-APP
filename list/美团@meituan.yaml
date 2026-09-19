@@ -6,7 +6,7 @@ app-list:
   - "com.sankuai.waimai.lite": "美团外卖极速版"
   - "com.dianping.v1": "大众点评"
   - "com.dianping.lite": "大众点评极速版"
-  - "com.meituan.banma": "美团众包"
+  - "com.sankuai.meituan.dispatch.crowdsource": "美团众包"
   - "com.sankuai.meituan.rider": "美团骑手"
   - "com.sankuai.meituan.runerrider": "美团跑腿骑手"
   - "com.sankuai.meituan.shop": "美团开店宝"
